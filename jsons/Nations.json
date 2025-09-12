@@ -1,38 +1,26 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+            "name": "Ouroboros",
+            "leaderName": "Prince Rizu",
+            "adjective": ["Ouroboros"],
+			"style": "Ouroboros",
+            
+            "startIntroPart1": "Hail Prince Rizu, serpent-king of the eternal cycle! You lead the ancient civilization of Ouroboros, where time flows in endless circles and rebirth is the natural order. Your people have mastered the mysteries of life, death, and regeneration, viewing existence not as a linear path but as an infinite spiral of renewal.",
+            "startIntroPart2": "Wise Prince, can you guide Ouroboros to transcend the mortal coil? Your civilization understands that true power comes not from conquering time, but from harmonizing with its eternal flow. Will you build an empire that endures through countless cycles of destruction and rebirth?",
+            
+            "declaringWar": "Your existence is but a fleeting moment in the eternal cycle. Allow me to expedite your return to the void.",
+            "attacked": "You dare interrupt the sacred cycle? Your impudence will be your undoing!",
+            "defeated": "You have broken the circle, but know that all endings contain new beginnings. This is not our final meeting.",
+            "introduction": "Greetings. I am Prince Rizu of Ouroboros. We observe the eternal cycle of existence.",
+            "neutralHello": "The cycle turns. How does it find you today?",
+            "hateHello": "What disruption do you bring to the pattern?",
+            "tradeRequest": "An exchange that benefits the great cycle?",
+            
+            "outerColor": [20, 43, 20],
+            "innerColor": [102, 204, 102],
+            "uniqueName": "Cycle of Rebirth",
+            "uniques": ["+15% Production towards Buildings that already exist in the Capital"],
+            "cities": ["Drakontis", "Aeion", "Kyklopolis", "Helkyra", "Zogon", "Nephraios", "Ophidessa", "Zoethera", "Thanorion", "Palingenes"],
+            "spyNames": ["Serpentius", "Cyclos", "Dracon", "Ophis", "Renatus", "Aeternus", "Solis", "Luna", "Orbis", "Vortex"]
 	}
 ]
